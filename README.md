@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi I’m Gordon a developer, designer, and artist
+## Hi I’m Gordon a developer 🧮, designer 🎨, and artist👾
 
 I make things and I have always made things. I studied art and visual communication at UC Berkeley. As an artist I constantly thought about how to effectively communicate the meaning in my work. I began to use my experience as an artist to communicate with users to solve their problems. 
 
