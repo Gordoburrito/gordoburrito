@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Gordoburrito/gordoburrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi I’m Gordon a developer, designer, and artist
+
+I make things and I have always made things. I studied art and visual communication at UC Berkeley. As an artist I constantly thought about how to effectively communicate the meaning in my work. I began to use my experience as an artist to communicate with users to solve their problems. 
+
+To enhance my abilities I earned my UX Certificate from General Assembly in San Francisco. During the pandemic I taught myself front end development to deliver my designs.
+
+I am currently a Developer at Rooster Grin Media. I volunteer as a Design Advisor for Design at Berkeley and I volunteer as a React Developer at Hawaii United Okinawan Association.
+
+I love to make figma plugins https://www.figma.com/@glewis, draw and paint, and think about all the things I could make.
+
+Reach out to me at glewis@berkeley.edu
